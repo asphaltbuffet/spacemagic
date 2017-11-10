@@ -1,0 +1,68 @@
+==========================================
+
+v0.2
+
+Minecraft: 1.7.10
+Forge: forge-10.13.4.1614
+
+MODS:
+
+A	AnimationAPI			1.2.4
+A	Animus					2015-10-09
+A	ArsMagica2				1.4.0.009
+A	Aura Cascade			557
+A	Baublelicious			1.2.2-final
+A	Baubles					1.0.1.10
+A	Biomes O'Plenty			2.1.0.2027
+A	Blood Arsenal			1.2-5
+A	Blood Magic				1.3.3-17
+A	Botania					r1.8-249
+A	Brandon's Core			1.0.0.12
+A	CodeChickenCore			1.0.7.47
+A	CoFH Core				3.1.4-329
+A	CoFH Lib				1.2.1-185
+A	CraftTweaker			3.0.13
+A	Draconic Evolution		1.0.2h
+A	Enchanting Plus			3.0.2-d
+A	FastCraft				1.23
+A	Guide-API				1.0.1-29
+A	Immersive Engineering	0.7.7
+A	JourneyMap				5.1.4p2
+A	Lycanites Mobs			1.13.0.5
+A	Magical Crops:Amoury	4.0.0 Public Beta 4
+A	Magical Crops: Core		4.0.0 Public Beta 5
+A	Magical Crops: Decorative	4.0.0 Public Beta 4a
+A	Mantle					0.3.2b
+A	Mimicry					1.0.10c
+A	MineTweaker RecipeMaker		1.1.1
+A	NEI Integration			1.1.2
+A	NetherOres				2.3.1-22
+A	NotEnoughItems			1.0.5.120
+A	NotEnoughResources		0.1.0-128
+A	Ore Excavation			1.1.106
+A	Reliquary				1.2.1.483
+A	Soul Shards: The Old Ways	0.1-RC9-7
+A	StatusEffectHUD			1.27
+A	Tainted Magic			r7.82
+A	Technomancy				0.12.5
+A	Thaumcraft				4.2.3.5
+A	Thaumcraft NEI Plugin	1.7a
+A	Thaumcraft Node Tracker	1.1.2
+A	Thaumic Exploration		1.1-53
+A	Thaumic Horizons		1.1.9
+A	Thaumic Tinkerer		2.5
+A	Waila					1.5.10
+A	Waila Harvestability	1.1.6
+A	Wawla					1.0.5.120
+A	Witchery				0.24.1
+
+
+==========================================
+
+v0.1
+
+Minecraft: 1.7.10
+Forge: forge-10.13.4.1614
+
+MODS:
+
